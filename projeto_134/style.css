@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://www.bing.com/ck/a?!&&p=8b14af635e043108JmltdHM9MTY5NjU1MDQwMCZpZ3VpZD0xNzdkZjY0MC0wOGExLTZjNjItMWRjYS1lNTRiMDk2ZjZkOTImaW5zaWQ9NTY2MQ&ptn=3&hsh=3&fclid=177df640-08a1-6c62-1dca-e54b096f6d92&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW0gZGUgY2FjaG9ybyBhIGEgZm9sb3UmRk9STT1JUUZSQkEmaWQ9QkJEMjg0MkQwNDRBOUU3MzM1NTQxQTI0Mzk2MzE3QzlEQTIzNkQxOA&ntb=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+.footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
